@@ -5,7 +5,6 @@ body{
 }
 img{
   transition: ease-out 200ms;
-  size: 0.5;
 }
 img:hover{
   transform: translateY(-2px);
